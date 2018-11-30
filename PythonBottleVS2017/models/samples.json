@@ -1,0 +1,24 @@
+[
+  {
+    "text": "Which is your favorite topic in C# Corner?",
+    "choices": [
+      "ASP.Net Core",
+      "Blockchain",
+      "Machine Learning",
+      "Angular",
+      "Python",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "text": "How do you commute to work?",
+    "choices": [
+      "Car",
+      "Motorcycle",
+      "Bicycle",
+      "Walk",
+      "Public transportation",
+      "No commute"
+    ]
+  }
+]
